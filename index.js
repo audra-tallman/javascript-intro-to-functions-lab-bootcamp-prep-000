@@ -4,7 +4,7 @@ uppercase.toUpperCase() === uppercase
 
 var lowercase = 'hello!'
 
-
+lowercase.toLowerCase() === lowercase
 
 
 
