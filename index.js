@@ -24,6 +24,6 @@ function sayHiToGrandma(string) {
   var mixedCase =  "I love you, Grandma.";
   mixedCase.toLowerCase() === mixedCase;
   mixedCase.toUpperCase() === mixedCase;
-  return string("I love you, too.");
+  return ("I love you, too.");
   }
   }
