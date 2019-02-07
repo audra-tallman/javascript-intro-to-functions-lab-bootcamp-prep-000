@@ -6,6 +6,10 @@ var lowercase = 'hello!'
 
 lowercase.toLowerCase() === lowercase
 
+var mixedCase = 'Hi there!'
+ 
+mixedCase.toLowerCase() === mixedCase
+
 
 
 function shout(string) {
